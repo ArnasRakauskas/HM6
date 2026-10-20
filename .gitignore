@@ -1,0 +1,9 @@
+environmental_raw.txt
+
+environmental_clean.csv
+
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
